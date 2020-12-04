@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95fa6720-3f22-44ca-93f4-f0725d200c70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/01-webpack的使用/03-webpack的loader/package.json" />
+    <dismissed value="$PROJECT_DIR$/01-webpack的使用/04-webpack配置vue/package.json" />
+    <dismissed value="$PROJECT_DIR$/01-webpack的使用/05-webpack配置plugin/package.json" />
+  </component>
+  <component name="ProjectId" id="1ke5mCqbkgGayavXaJyALqTuvlx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13763\文档\vuejs\learnvuejs-v2\tabbar\src\assets\img\tabbar" />
+      <recent name="C:\Users\13763\文档\vuejs\learnvuejs-v2" />
+      <recent name="C:\Users\13763\文档\vuejs\learnvuejs-v2\01-webpack的使用\02-webpack的配置\src\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13763\文档\vuejs\learnvuejs-v2\01-webpack的使用" />
+      <recent name="C:\Users\13763\文档\vuejs\learnvuejs-v2\01-webpack的使用\03-webpack的loader\src\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95fa6720-3f22-44ca-93f4-f0725d200c70" name="Default Changelist" comment="" />
+      <created>1606048373414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606048373414</updated>
+      <workItem from="1606048374480" duration="1965000" />
+      <workItem from="1606050391466" duration="3563000" />
+      <workItem from="1606127054805" duration="12030000" />
+      <workItem from="1606207362263" duration="13446000" />
+      <workItem from="1606296088366" duration="3158000" />
+      <workItem from="1606302837755" duration="8092000" />
+      <workItem from="1606387202843" duration="520000" />
+      <workItem from="1606387749474" duration="6892000" />
+      <workItem from="1606481516546" duration="4316000" />
+      <workItem from="1606555576360" duration="9507000" />
+      <workItem from="1606573087663" duration="273000" />
+      <workItem from="1606573380130" duration="347000" />
+      <workItem from="1606573867294" duration="305000" />
+      <workItem from="1606635569406" duration="8820000" />
+      <workItem from="1606645910902" duration="4525000" />
+      <workItem from="1606818452200" duration="9879000" />
+      <workItem from="1606911463308" duration="6335000" />
+      <workItem from="1606999473749" duration="4973000" />
+      <workItem from="1607081265533" duration="7720000" />
+      <workItem from="1607090111575" duration="2271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="58" key="#HTTP_Proxy" timestamp="1606226222259">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="413" y="58" key="#HTTP_Proxy/0.0.1280.680@0.0.1280.680" timestamp="1606226222259" />
+    <state x="368" y="164" key="#Notifications" timestamp="1606569774396">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1606569774396" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607089952960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1607089952960" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606645435263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606645435263" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1607090216711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607090216711" />
+    <state x="172" y="0" key="SettingsEditor" timestamp="1607090148415">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="172" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607090148415" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1606917583464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1606917583464" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607090137477">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1607090137477" />
+  </component>
+</project>
